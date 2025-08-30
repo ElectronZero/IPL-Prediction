@@ -1,2 +1,5 @@
 # ipl-win-probability-predictor
-A machine learning project to find out the win probability of an IPL match
+This repository is about building an IPL match prediction app.
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?resource=download
+
